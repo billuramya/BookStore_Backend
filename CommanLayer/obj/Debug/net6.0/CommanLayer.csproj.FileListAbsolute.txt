@@ -1,0 +1,11 @@
+C:\Users\billu\source\repos\BookStore\CommanLayer\bin\Debug\net6.0\CommanLayer.deps.json
+C:\Users\billu\source\repos\BookStore\CommanLayer\bin\Debug\net6.0\CommanLayer.dll
+C:\Users\billu\source\repos\BookStore\CommanLayer\bin\Debug\net6.0\CommanLayer.pdb
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\CommanLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\CommanLayer.AssemblyInfoInputs.cache
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\CommanLayer.AssemblyInfo.cs
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\CommanLayer.csproj.CoreCompileInputs.cache
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\CommanLayer.dll
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\refint\CommanLayer.dll
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\CommanLayer.pdb
+C:\Users\billu\source\repos\BookStore\CommanLayer\obj\Debug\net6.0\ref\CommanLayer.dll
